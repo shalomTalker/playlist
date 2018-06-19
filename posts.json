@@ -1,0 +1,134 @@
+[
+	{
+	"name": "Adelle - 19",
+	"image": "docs/adelle/adelle-cover.jpg",
+	"songs": [
+		{
+			"name": "Adelle - Crazy for you",
+			"url": "docs/adelle/Crazy for you.mp3"
+		},
+		{
+			"name": "Adelle - First love",
+			"url": "docs/adelle/First love.mp3"
+		}, 
+		{
+			"name": "Adelle - Melt my heart to stone",
+			"url": "docs/adelle/Melt my heart to stone.mp3"
+		},
+		{
+			"name": "Adelle - Right as rain",
+			"url": "docs/adelle/Right as rain.mp3"
+		}
+	]
+},
+{
+	"name": "Avicii - Hits",
+	"image": "docs/avicii/avicii-cover.jpg",
+	"songs": [
+		{
+			"name": "Avicii - Gonna love ya",
+			"url": "docs/avicii/Gonna love ya.mp3"
+		},
+		{
+			"name": "Avicii - Hey brother",
+			"url": "docs/avicii/Hey brother.mp3"
+		}, 
+		{
+			"name": "Avicii - Levels",
+			"url": "docs/avicii/Levels.mp3"
+		},
+		{
+			"name": "Avicii - Wake me up",
+			"url": "docs/avicii/Wake me up.mp3"
+		}
+	]
+},
+{
+	"name": "Bruno mars - 24k magic",
+	"image": "docs/bruno mars/bruno mars-cover.jpg",
+	"songs": [
+		{
+			"name": "Bruno mars - 24k magic",
+			"url": "docs/bruno mars/24k magic.mp3"
+		},
+		{
+			"name": "Bruno mars - Chunky",
+			"url": "docs/bruno mars/Chunky.mp3"
+		}, 
+		{
+			"name": "Bruno mars - Perm",
+			"url": "docs/bruno mars/Perm.mp3"
+		},
+		{
+			"name": "Bruno mars - Thats what i like",
+			"url": "docs/bruno mars/Thats what i like.mp3"
+		}
+	]
+},
+{
+	"name": "Coldplay - A head full of dreams",
+	"image": "docs/coldplay/coldplay-cover.jpg",
+	"songs": [
+		{
+			"name": "Coldplay - A head full of dreams",
+			"url": "docs/coldplay/A head full of dreams.mp3"
+		},
+		{
+			"name": "Coldplay - Adventure of a liftime",
+			"url": "docs/coldplay/Adventure of a liftime.mp3"
+		}, 
+		{
+			"name": "Coldplay - Hymn for the weekend",
+			"url": "docs/coldplay/Hymn for the weekend.mp3"
+		},
+		{
+			"name": "Coldplay - Miracles",
+			"url": "docs/coldplay/Miracles.mp3"
+		}
+	]
+},
+{
+	"name": "Passenger - All the little lights",
+	"image": "docs/passenger/passenger-cover.jpg",
+	"songs": [
+		{
+			"name": "Passenger - All the little lights",
+			"url": "docs/passenger/All the little lights.mp3"
+		},
+		{
+			"name": "Passenger - Circles",
+			"url": "docs/passenger/Circles.mp3"
+		}, 
+		{
+			"name": "Passenger - Let her go",
+			"url": "docs/passenger/Let her go.mp3"
+		},
+		{
+			"name": "Passenger - Staring at the stars",
+			"url": "docs/passenger/Staring at the stars.mp3"
+		}
+	]
+},
+{
+	"name": "Sia - Everyday is christmas",
+	"image": "docs/sia/sia-cover.jpg",
+	"songs": [
+		{
+			"name": "Sia - Candy cane lane",
+			"url": "docs/sia/Candy cane lane.mp3"
+		},
+		{
+			"name": "Sia - Everyday is christmas",
+			"url": "docs/sia/Everyday is christmas.mp3"
+		}, 
+		{
+			"name": "Sia - Santa`s coming for us",
+			"url": "docs/sia/Santa`s coming for us.mp3"
+		},
+		{
+			"name": "Sia - Underneath the mistletoe",
+			"url": "docs/sia/Underneath the mistletoe.mp3"
+		}
+	]
+}
+]
